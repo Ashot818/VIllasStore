@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNetCore.Components
+@model IEnumerable<MagicVilla_Web.Models.Dto.VillaDto>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<img class="d-block w-100 mb-4" src="images/kv1.jpg" alt="" />
+
+<hr />
+
+<div class="row">
+    @foreach (var villa in Model)
+    {
+        <div class="p-4 col-md-6 col-lg-4">
+            <div class="card shadow-sm" style="border-radius:20px; overflow:hidden;">
+
+                <img src="@villa.ImageUrl" class="card-img-top" style="height:250px; object-fit:cover;" alt="@villa.Name" />
+
+                <div class="card-body">
+                    <h5 class="card-title text-warning" style="font-size:x-large;">@villa.Name</h5>
+                    <p class="card-text">@((MarkupString)villa.Details)</p>
+
+                    <div class="mt-3">
+                        <span>Max Occupancy: <strong>@villa.Occupancy</strong> adults</span><br />
+                        <span>Villa Size: <strong>@villa.Sqft</strong> sqft</span>
+                    </div>
+
+                    <div class="mt-3 d-flex justify-content-between align-items-center">
+                        <a href="#" class="btn btn-success px-4">Book</a>
+                        <span class="text-warning fw-bold" style="font-size:22px;">
+                            USD <span style="border-bottom:1px solid #ff6a00">@villa.Rate.ToString("c")</span>
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+</div>

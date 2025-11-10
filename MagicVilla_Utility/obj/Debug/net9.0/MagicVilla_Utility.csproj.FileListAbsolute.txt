@@ -1,0 +1,11 @@
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\bin\Debug\net9.0\MagicVilla_Utility.deps.json
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\bin\Debug\net9.0\MagicVilla_Utility.dll
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\bin\Debug\net9.0\MagicVilla_Utility.pdb
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\MagicVilla_Utility.AssemblyInfo.cs
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\MagicVilla_Utility.dll
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\refint\MagicVilla_Utility.dll
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\MagicVilla_Utility.pdb
+C:\Users\ashot.hovhannisyan\Desktop\desktops\chat\backend\MagicVilla\MagicVilla_Utility\obj\Debug\net9.0\ref\MagicVilla_Utility.dll
